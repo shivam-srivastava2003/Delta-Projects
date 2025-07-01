@@ -1,8 +1,8 @@
-# Random Quote Generator
+# Search university name by each state in india
 
-## This Quote Generator Web Application is a platform designed to provide users with a diverse range of quotes for inspiration, motivation, and reflection. 
+## This is created for user , it provide a user interface in which user simply search university name by each states in india 
 
-## With just a few clicks, you can browse through a vast collection of quotes from famous authors, thought leaders, and other inspiring figures.
+
 
 ## Technologies used :
    1. HTML
@@ -10,4 +10,4 @@
    3. JavaScript
 
 ## API used :
-   Quote Garden API - https://quote-garden.onrender.com/api/v3/quotes
+   Unversity  API -"http://universities.hipolabs.com/search?country=india&name=";
